@@ -4,13 +4,12 @@
 
 Logo
 
-SAN
-一个快速、轻量、灵活的 JavaScript 组件框架
-A fast, portable, flexible JavaScript component framework.
+<p>系统自带工具Windows 系统：</p>
+<p>任务管理器：按下 “Ctrl + Shift + Esc” 组合键打开任务管理器，切换至 “性能” 选项卡，点击左侧的 “内存”，在右侧能够看到内存的详细信息，其中包括速度，这个速度就是内存条的频率。</p>
 
-NPM version License Build Status Coverage Status Issues
-<p align="center">
-    <a href="https://baidu.github.io/san/">
+<p>系统信息：按下 “Windows + R” 键，输入 “msinfo32” 后回车，打开 “系统信息” 窗口，在 “内存” 部分，可以找到 “最大带宽” 或 “内存频率” 的数值，此数值即为内存频率。</p>
+
+<p>命令提示符：按下 “Win+R” 键打开运行窗口，输入 “cmd” 并回车，打开命令提示符，输入 “wmic memorychip” 命令，系统会列出所有内存条的详细信息，包括频率、大小、型号等。</p>
         <img src="https://baidu.github.io/san/img/logo-colorful.svg" alt="Logo" height="220">
     </a>
 </p>
