@@ -43,10 +43,10 @@ A fast, portable, flexible JavaScript component framework.
   <a href="https://baidu.github.io/san/en/index.html" target="_blank">HomePage</a>
   <a href="https://baidu.github.io/san/" target="_blank">网站</a>
 </p>
-https://download.virtualbox.org/virtualbox/
-----------------------------------------------------------
-itsk天空
-系统封装（新系统）
+</p>https://download.virtualbox.org/virtualbox/</p>
+</p>----------------------------------------------------------</p>
+</p>itsk天空</p>
+</p>系统封装（新系统）
 1.安装纯净系统
 2.设置Windows界面OOBE，Shift+F10
    lusrmgr.msc 启用administrator
@@ -68,9 +68,9 @@ itsk天空
 15.网络-全部关闭
 16.任务-全部闭闭
 17其它-保存映像到其它盘
-18.备份镜像esd,wim PE下ITSK天空系统恢复备份工具
-----------------------------------------------------------
-SC封装工具3.0_系统封装首席执行官
+18.备份镜像esd,wim PE下ITSK天空系统恢复备份工具</p>
+</p>----------------------------------------------------------</p>
+</p>SC封装工具3.0_系统封装首席执行官</p>
 1.安装纯净系统
 2.配置帐户验证
 3.激活系统
@@ -81,8 +81,8 @@ SC封装工具3.0_系统封装首席执行官
 8.计划任务-不设置
 9.部署过程-不设置
 10.系统封装-不设置
-11.进入PE系统备份映像。
-----------------------------------------------------------
+11.进入PE系统备份映像。</p>
+</p>----------------------------------------------------------</p>
 <p>网站地址列表：</p>
 <p>浏览器:
 华为浏览器下载地址  consumer.huawei.com/cn/mobileservices/browser/</p>
