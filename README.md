@@ -43,6 +43,46 @@ A fast, portable, flexible JavaScript component framework.
   <a href="https://baidu.github.io/san/en/index.html" target="_blank">HomePage</a>
   <a href="https://baidu.github.io/san/" target="_blank">网站</a>
 </p>
+https://download.virtualbox.org/virtualbox/
+----------------------------------------------------------
+itsk天空
+系统封装（新系统）
+1.安装纯净系统
+2.设置Windows界面OOBE，Shift+F10
+   lusrmgr.msc 启用administrator
+   taskmgr.exe 结束msoobe进程
+3.激活系统
+4.设置系统、安装软件
+5.安装PE工具
+6.运行封装工具--当前配置用于创建的新用户-重点
+点击封装，按提示，第一阶段结束后必须立即进入PE系统
+注意！系统不会自动重启，只会提示封装完成
+7.自动运行 sysprep 等待进入封装程序自动退出，第一阶段完成
+8.重启系统立马进入PE
+9.在PE下运行封装工具，点击设置，进入第二阶段
+10.OEM-自已设置
+11.优化-不优化
+12.部署-关闭万能驱动-删除万能驱动
+13.系统-关闭变更、转移
+14.用户-关闭创建新用户-启用administrator
+15.网络-全部关闭
+16.任务-全部闭闭
+17其它-保存映像到其它盘
+18.备份镜像esd,wim PE下ITSK天空系统恢复备份工具
+----------------------------------------------------------
+SC封装工具3.0_系统封装首席执行官
+1.安装纯净系统
+2.配置帐户验证
+3.激活系统
+4.设置系统、安装软件
+5.安装PE工具
+6.开始封装，打开SC封装工具，点击【封装体验】，可以扫描出需要修复的项目，可进行选择性修复；
+7.目标系统-全部去掉
+8.计划任务-不设置
+9.部署过程-不设置
+10.系统封装-不设置
+11.进入PE系统备份映像。
+----------------------------------------------------------
 <p>网站地址列表：</p>
 <p>浏览器:
 华为浏览器下载地址  consumer.huawei.com/cn/mobileservices/browser/</p>
