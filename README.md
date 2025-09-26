@@ -73,3 +73,6 @@ Geek Uninstaller下载地址 https://geekuninstaller.com/
 Drive Icon Manager下载地址 https://github.com/Return-Log/Drive-Icon-Manager/tree/master?tab=readme-ov-file
 <p>密钥检测工具：
 simplepidx下载地址 </p>
+<p>github加速访问工具：
+瓦特工具箱Watt Toolkit 下载地址 https://steampp.net/
+https://github.com/qipa/SteamTools</p>
