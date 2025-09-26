@@ -43,27 +43,27 @@ A fast, portable, flexible JavaScript component framework.
   <a href="https://baidu.github.io/san/en/index.html" target="_blank">HomePage</a>
   <a href="https://baidu.github.io/san/" target="_blank">网站</a>
 </p>
-网站地址列表：
-浏览器:
-华为浏览器下载地址  consumer.huawei.com/cn/mobileservices/browser/
-解压缩软件:
+<p>网站地址列表：</p>
+<p>浏览器:
+华为浏览器下载地址  consumer.huawei.com/cn/mobileservices/browser/</p>
+<p>解压缩软件:
 winrar软件下载地址  www.gtxp2.com/plus/search.php?q=winrar
-输入法:
+<p>输入法:
 搜狗输入法下载地址  www.sogou.com/
 QQ五笔输入法下地地址  qq.pinyin.cn/
-单机播放器:
+<p>单机播放器:
 QQ播放器下载地址  player.qq.com/
 QQ播放器intel版下载地址  origin.player.qq.com/
-免费驱动程序安装:
+<p>免费驱动程序安装:
 360驱动大师下载地址  dm.weishi.360.cn/home.html
-免费杀毒软件:
+/p>免费杀毒软件:
 360杀毒软件下载地址  sd.360.cn/
-免费办公软件:
+<p>免费办公软件:
 金山wps办公软件下载地址  www.wps.cn/
-免费QQ聊天软件:
+<p>免费QQ聊天软件:
 QQ聊天软件下载地址  im.qq.com/
-免费微信电脑版软件:
+<p>免费微信电脑版软件:
 微信电脑版软件下载地址  weixin.qq.com/
 微信内空搜索地址  weixin.sogou.com/
-音乐播放软件:
-酷我音乐软件下载地址  www.gtxp2.com/plus/search.php?q=酷我音乐
+<p>音乐播放软件:
+酷我音乐软件下载地址  www.gtxp2.com/plus/search.php?q=酷我音乐</p>
