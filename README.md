@@ -47,13 +47,13 @@ A fast, portable, flexible JavaScript component framework.
 </p>----------------------------------------------------------</p>
 </p>itsk天空</p>
 </p>系统封装（新系统）
-1.安装纯净系统
-2.设置Windows界面OOBE，Shift+F10
+</p>1.安装纯净系统
+</p>2.设置Windows界面OOBE，Shift+F10
    lusrmgr.msc 启用administrator
    taskmgr.exe 结束msoobe进程
-3.激活系统
-4.设置系统、安装软件
-5.安装PE工具
+</p>3.激活系统
+</p>4.设置系统、安装软件
+</p>5.安装PE工具
 6.运行封装工具--当前配置用于创建的新用户-重点
 点击封装，按提示，第一阶段结束后必须立即进入PE系统
 注意！系统不会自动重启，只会提示封装完成
