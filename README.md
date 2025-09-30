@@ -145,7 +145,7 @@ QQ聊天软件下载地址  im.qq.com/
 微信电脑版软件下载地址  weixin.qq.com/
 微信内空搜索地址  weixin.sogou.com/
 <p>音乐播放软件:
-酷我音乐软件下载地址  www.gtxp2.com/plus/search.php?q=酷我音乐</p>
+酷我音乐软件下载地址  </p>
 <p>系统软件卸载工具：
 Geek Uninstaller下载地址 https://geekuninstaller.com/
 <p>网盘图标删除器：
