@@ -68,7 +68,7 @@ A fast, portable, flexible JavaScript component framework.
 </p>先确认一下电脑主板是否支持UEFI启动，需要支持UEFI才行。
 </p>计划硬盘空间，系统1占用多少空间，系统2占用多少空间，系统3占用多少空间，等等等。
 </p>系统1安装windows,剩余空间不要创建分区哦。
-</p>准备refind软件，DiskGenius软件
+</p>准备refind软件，DiskGenius软件,bootice引导修改工具
 </p>备份整个 EFI 文件夹（切记，不要忽略！以备万一失败时恢复ESP）
 </p>BOOT目录中，除了 Bootx64.efi，把其它文件和文件夹都删除。把 Bootx64.efi 改成其它名字，然后把 rEFInd 那三个文件夹和三个文件拖到 DiskGenius 的 \EFI\BOOT 中。
 </p>用记事本打开 refind.conf修改配置文件
@@ -90,14 +90,13 @@ A fast, portable, flexible JavaScript component framework.
 </p>    icon \EFI\boot\icons\os_deepin.png      
 </p>   loader \EFI\deepin\grubx64.efi 
 
-</p>menuentry "NewStartOS" {                     //设置第三个系统，我的是 macOS
+</p>menuentry "NewStartOS" {                     //设置第三个系统
 </p>   icon \EFI\boot\icons\os_newos.png
 </p>  loader \EFI\newstartos\grubx64.efi 
 </p>}
 </p>把这个文件按你的需要修改好，保存，拖到 DiskGenius 的 \EFI\BOOT 中，替换原文件。
-</p>这样，开机启动管理器就设置好了。关闭 DiskGenius，重启电脑，酷炫的开机启动界面就出现了！是不是很简单？赶紧去 DIY 一个吧。
-
-</p>
+</p>使用bootice引导修改工具，新建refind，分区为ESP所在地，启动文件 \EFI\BOOT\BOOTX64.efi
+</p>保存设置，然后把refind调整到第一启动顺序。
 </p>
 </p>
 </p>
