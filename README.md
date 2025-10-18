@@ -200,7 +200,7 @@ QQ播放器下载地址  player.qq.com/
 QQ播放器intel版下载地址  origin.player.qq.com/
 <p>免费驱动程序安装:
 360驱动大师下载地址  dm.weishi.360.cn/home.html
-/p>免费杀毒软件:
+<p>免费杀毒软件:
 360杀毒软件下载地址  sd.360.cn/
 <p>免费办公软件:
 金山wps办公软件下载地址  www.wps.cn/
