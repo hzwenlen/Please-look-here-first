@@ -1,6 +1,31 @@
 # 找一找，记一记，写一写，存一存 2025.10.8.0018
 </p>----------------------------------------------------------------------------------------------------------------</p>
 1.1.1.1 变身公共 DNS2018 年 4 月 1 日（注意日期，愚人节），Cloudflare 宣布正式推出公共 DNS 服务，并选择了 1.1.1.1 作为主地址，1.0.0.1 作为备用地址。很多人第一反应是：“愚人节玩笑吧？”但 Cloudflare 真的做到了——他们把一个“被滥用”的地址，打造成了号称“全球最快的公共 DNS”。
+</p>----------------------------------------------------------------------------------------------------------------
+</p>windows11安装无网情况下跳过必须联网:
+</p>windows11安装跳过必须联网
+</p>直接创建本地用户
+1.shift+F10   cmd里输入 start ms-cxh:localonly
+重启开启OOBE bypassNRO
+</p>2.shift+F10   cmd里输入 reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE /v BypassNRO /t REG_DWORD /d 1 /f
+</p>批处理BAT:
+</p>@echo off
+</p>reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE /v BypassNRO /t REG_DWORD /d 1 /f
+</p>shutdown /r /t 0
+</p>3.可以联网的情况下
+输入1@1.com或no@thankyou.com 密码随便输入，下一步，就可以创建用户了。
+</p>4.Shift + F10 组合键。在CMD窗口中输入
+net user Administrator /active:yes
+然后回车再输入以下命令，就什么都不用再设置了直接进桌面
+oobe\msoobe && shutdown -r
+</p>5.Shift + F10 组合键。在CMD窗口中输入taskmgr 任务管理器control.exe 控制面板
+</p>6.Shift + F10 组合键。在CMD窗口中输入compmgmt.msc 帐户管理面板
+oobe\msoobe && shutdown -r
+</p>7.Shift + F10 组合键。在CMD窗口中输入 control userpasswords2  切换用户面板
+</p>8.Shift + F10 组合键。在CMD窗口中输入 net user admin admin888 /add
+net user Admin /active:yes
+control userpasswords2
+</p>9.Shift + F10 组合键。在CMD窗口中输入logoff 注销用户
 </p>----------------------------------------------------------------------------------------------------------------</p>
 </p>汽车电瓶充电步骤。踩刹车大的那个,注意旁边小的是油门。车辆档位在p档。屏幕显示p,说明手刹已打开。这个时候就可以一键启动车辆了。
 </p>P是停止，R是倒，N是等，D是走，S是超
