@@ -2,6 +2,27 @@
 </p>----------------------------------------------------------------------------------------------------------------</p>
 1.1.1.1 变身公共 DNS2018 年 4 月 1 日（注意日期，愚人节），Cloudflare 宣布正式推出公共 DNS 服务，并选择了 1.1.1.1 作为主地址，1.0.0.1 作为备用地址。很多人第一反应是：“愚人节玩笑吧？”但 Cloudflare 真的做到了——他们把一个“被滥用”的地址，打造成了号称“全球最快的公共 DNS”。
 </p>----------------------------------------------------------------------------------------------------------------
+</p>威锋网 www.feng.com 
+</p>Install macOS Vmware虚拟机镜像大全
+</p>今天带来的教程是在Windows系统下通过VMware 17安装macOS的教程
+</p>后续新版本的macOS虚拟机镜像也会更新到这个文件夹下，保存这个网址即可
+</p>在等待镜像下载完成的时候，请务必从头到尾看一遍本教程，以免错过关键步骤导致安装失败
+</p>保存下面这个链接，后续有新版本更新也会上传到这个文件夹内
+
+</p>1-M芯片专用IPSW刷机固件
+</p>下载链接：https://pan.quark.cn/s/b220ca8d08fb
+</p>下载链接：https://pan.xunlei.com/s/VOYtyltLsIdvNNJVRH89XCxPA1?pwd=yat5#
+</p>VMware虚拟机和macos镜像
+</p>下载链接：https://pan.quark.cn/s/42d61f66257b
+</p>下载链接：https://pan.xunlei.com/s/VNki-eAi2zSBgBhsc1Vcd9iyA1?pwd=ufr5 
+</p>1-原版苹果镜像
+</p>下载链接：https://pan.quark.cn/s/11a9f531182d
+</p>下载链接：https://pan.xunlei.com/s/VOYtyrCA5wvo7kABDB8UeixvA1?pwd=xyt9#
+</p>1-Transmac专用镜像
+</p>下载链接：https://pan.quark.cn/s/99239fbdf957
+</p>下载链接：https://pan.xunlei.com/s/VOYtyopSfNLuX3kr_J7Dij4vA1?pwd=d6dc#
+</p>----------------------------------------------------------------------------------------------------------------
+
 </p>windows11安装无网情况下跳过必须联网:
 </p>windows11安装跳过必须联网
 </p>直接创建本地用户
